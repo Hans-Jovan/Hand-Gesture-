@@ -28,7 +28,7 @@ Both applications utilize MediaPipe's hand landmark detection and OpenCV's image
 ---
 
 # Project 1: Hand Gesture Volume Controller
-
+![Volume Controller](assets/volume.gif)
 ## Description
 
 This application enables users to control the system volume without touching any physical device. By measuring the distance between the thumb and index finger, the system dynamically adjusts the audio volume level.
@@ -59,7 +59,7 @@ This application enables users to control the system volume without touching any
 ---
 
 # Project 2: Hand Gesture Classification
-
+![Volume Controller](assets/classification.gif)
 ## Description
 
 This application recognizes and classifies predefined hand gestures in real time. The detected gesture label is displayed directly on the screen.
